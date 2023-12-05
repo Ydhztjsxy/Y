@@ -4,7 +4,7 @@ This repository contains the code and the data to train **AutoY and LSTMY** mode
 
 ​    Contact: 1974887272@qq.com
 ## Project Organization
-├── Y                     
+      ├── Y                     
          │
          │
          │     
