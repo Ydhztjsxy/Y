@@ -5,30 +5,30 @@ This repository contains the code and the data to train **AutoY and LSTMY** mode
 ​    Contact: 1974887272@qq.com
 ## Project Organization
 ├── Y                     
-   │
-   │
-   │     
-   ├── README.md                   <- The README for users using AutoY.
-   │
-   │
-   ├── Codes                      <- AutoY and LSTMY code for jupyter notebook. See README for their usages.
-   │   ├── AutoY.ipynb              <- Trainingd and predictions AutoY models.
-   │   ├── LSTMY.ipynb              <- Trainingd and predictions LSTMY models. 
-   │   ├── Raw_data_processing.ipynb     <- Processing raw data for AutoY models.
-   │
-   ├── Data                       <- Data for training and testing.See README for their usages.
-   │   ├── RA
-   │   ├── MS                   
-   │   ├── TID                     
-   │   ├── IAA                   
-   │   ├── Health   
-   │   ├── PCA15.txt  
-   │   └── Example_raw_file.tsv        
-   │
-   ├── model（AutoY）                <- Model for storing the optimal AutoY  
-   ├── model（LSTMY）                <- Model for storing the optimal LSTMY    
-   ├── python_codes                 <- Code for EarlyStopping    
-   ├── Oringl Data.7z                <- Original documents for four autoimmune diseases    
+         │
+         │
+         │     
+         ├── README.md                   <- The README for users using AutoY.
+         │
+         │
+         ├── Codes                      <- AutoY and LSTMY code for jupyter notebook. See README for their usages.
+         │   ├── AutoY.ipynb              <- Trainingd and predictions AutoY models.
+         │   ├── LSTMY.ipynb              <- Trainingd and predictions LSTMY models. 
+         │   ├── Raw_data_processing.ipynb     <- Processing raw data for AutoY models.
+         │
+         ├── Data                       <- Data for training and testing.See README for their usages.
+         │   ├── RA
+         │   ├── MS                   
+         │   ├── TID                     
+         │   ├── IAA                   
+         │   ├── Health   
+         │   ├── PCA15.txt  
+         │   └── Example_raw_file.tsv        
+         │
+         ├── model（AutoY）                <- Model for storing the optimal AutoY  
+         ├── model（LSTMY）                <- Model for storing the optimal LSTMY    
+         ├── python_codes                 <- Code for EarlyStopping    
+         ├── Oringl Data.7z                <- Original documents for four autoimmune diseases    
        
              
 
