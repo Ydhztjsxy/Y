@@ -5,8 +5,11 @@ This repository contains the code and the data to train **AutoY** model.
 ​    Contact: 1974887272@qq.com
 ## Project Organization
    ├── Y                     
+    │
+    │
     │     
     ├── README.md                   <- The README for users using AutoY.
+    │
     │
     ├── Codes                      <- AutoY and LSTMY code for jupyter notebook. See README for their usages.
     │   ├── AutoY.ipynb              <- Trainingd and predictions AutoY models.
