@@ -8,7 +8,7 @@ This repository contains the code and the data to train **AutoY and LSTMY** mode
          │
          │
          │     
-         ├── README.md                   <- The README for users using AutoY.
+         ├── README.md                   <- The README for users using AutoY and LSTMY.
          │
          │
          ├── Codes                      <- AutoY and LSTMY code for jupyter notebook. See README for their usages.
